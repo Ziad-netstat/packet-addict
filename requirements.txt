@@ -1,0 +1,4 @@
+# Packet Addict dependencies
+# Install with:  pip install -r requirements.txt
+# (On Kali/Debian you can also run:  sudo apt install python3-scapy)
+scapy>=2.5.0
